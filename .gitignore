@@ -1,0 +1,30 @@
+# Python-related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+env/
+venv/
+venv.bak/
+
+# Flask files
+instance/
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.sqlite3
+*.db
+
+# Static files and temporary uploads
+/static/qr_codes/
+*.bak
+*.swp

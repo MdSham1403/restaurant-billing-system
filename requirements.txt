@@ -1,0 +1,9 @@
+Flask==3.0.0         # Core framework
+Flask-SQLAlchemy==3.0.5  # ORM for database integration
+Flask-WTF==1.1.1     # For forms handling
+Flask-Bootstrap==3.3.7.1  # To simplify Bootstrap integration
+WTForms==3.1.1       # Form validation
+Pillow==11.0.0       # Image handling (e.g., QR code generation)
+qrcode==7.4.2        # Generate QR codes for bills
+psycopg2==2.9.7      # PostgreSQL database adapter
+python-dotenv==1.0.0  # For managing environment variables
